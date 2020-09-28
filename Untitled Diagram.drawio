@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T16:31:09.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="v2qaQPsJVeaSYgTfgKH-" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T16:38:01.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_S6XKe3-NxJ60ddlnnrf" version="13.7.5" type="github">
   <diagram id="3zB3vqKJ1BA_8LtpK7zn" name="Page-1">
     <mxGraphModel dx="1888" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,13 +108,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tkb9A3E0t6XMicSsRPGi-51" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="570" y="420" width="210" height="160" as="geometry" />
+          <mxGeometry x="570" y="420" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Tkb9A3E0t6XMicSsRPGi-53" value="U_name:SMBRUSER2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="435" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Tkb9A3E0t6XMicSsRPGi-55" value="Cust_no:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="465" width="60" height="20" as="geometry" />
+        <mxCell id="Tkb9A3E0t6XMicSsRPGi-55" value="Cust_no:088601" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="465" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tkb9A3E0t6XMicSsRPGi-56" value="Pass:&lt;span style=&quot;font-weight: normal&quot;&gt;PASS1234&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="434" width="110" height="20" as="geometry" />
@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tkb9A3E0t6XMicSsRPGi-76" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="790" y="420" width="170" height="60" as="geometry" />
+          <mxGeometry x="830" y="420" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tkb9A3E0t6XMicSsRPGi-79" value="U_name:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="337" y="434" width="40" height="20" as="geometry" />
@@ -231,10 +231,10 @@
           <mxGeometry x="-166" y="531" width="40" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Tkb9A3E0t6XMicSsRPGi-96" value="U_name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="794" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="830" y="420" width="44" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tkb9A3E0t6XMicSsRPGi-97" value="Pass" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="788" y="454" width="40" height="20" as="geometry" />
+          <mxGeometry x="830" y="450" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tkb9A3E0t6XMicSsRPGi-98" value="U_name:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-160" y="430" width="40" height="20" as="geometry" />
